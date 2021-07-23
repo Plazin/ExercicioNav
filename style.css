@@ -1,0 +1,19 @@
+body{
+  
+    display:flex;
+    justify-content:left;
+    align-content: center;
+    background-color:white;
+    
+  }
+  
+  .title{
+    
+    font-size:36px;
+    
+  }
+  
+  .list{
+    
+    font-size:18px;
+  }
